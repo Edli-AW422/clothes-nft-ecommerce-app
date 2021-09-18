@@ -9,6 +9,15 @@ import nft2 from "./images/nft2.png";
 import nft3 from "./images/nft3.jpg";
 import nft4 from "./images/nft4.png";
 import nft5 from "./images/nft5.png";
+
+import shirt1 from "./images/shirt1.png";
+import shirt2 from "./images/shirt2.png";
+import shirt3 from "./images/shirt3.jpg";
+import shirt4 from "./images/shirt4.jpg";
+import shirt5 from "./images/shirt5.jpg";
+import shirt6 from "./images/shirt6.jpg";
+import shirt7 from "./images/shirt7.jpg";
+
 import React from 'react';
 
 const responsive = {
@@ -30,12 +39,7 @@ const responsive = {
 };
 
 const images = [
-  "https://images.unsplash.com/photo-1550353175-a3611868086b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-  "https://images.unsplash.com/photo-1550330039-a54e15ed9d33?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-  "https://images.unsplash.com/photo-1549737328-8b9f3252b927?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-  "https://images.unsplash.com/photo-1549833284-6a7df91c1f65?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-  "https://images.unsplash.com/photo-1549985908-597a09ef0a7c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-  "https://images.unsplash.com/photo-1550064824-8f993041ffd3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+  shirt1, shirt2, shirt3, shirt4, shirt5, shirt6, shirt7
 ];
 
 const nftImages = [
